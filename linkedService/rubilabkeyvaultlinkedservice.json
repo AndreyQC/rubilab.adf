@@ -1,0 +1,10 @@
+{
+	"name": "rubilabkeyvaultlinkedservice",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://rubilabkyvtapdev.vault.azure.net/"
+		}
+	}
+}
