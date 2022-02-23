@@ -1,0 +1,9 @@
+{
+	"name": "rubilabdafapdev",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "054cded4-68ea-4cde-a925-c7d09965f1b0",
+		"tenantId": "73905820-474e-4cd3-81ed-7414a2cb98a6"
+	}
+}
